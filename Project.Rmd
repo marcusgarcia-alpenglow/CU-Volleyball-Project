@@ -1,0 +1,213 @@
+---
+title: "Project"
+author: "Marcus Garcia"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+
+```{r}
+set.seed(459)
+setwd("~/School Classses/Spring 2024/Stat Collab")
+df <- read.csv("all_matches_processed.csv")
+df$wonSet <- as.logical(df$wonSet)
+df$wonSet <- as.numeric(df$wonSet)
+
+opp <-  read.csv('https://media.githubusercontent.com/media/jofr1815/spikestats/main/data/matches/all_matches_opp.csv')
+opp$wonSet <- as.logical(opp$wonSet)
+opp$wonSet <- as.numeric(opp$wonSet)
+
+rows <- sample(x=nrow(df),size=floor(0.75*nrow(df)),replace=FALSE)
+
+#split data into the two groups
+training <- df[rows,]
+testing <- df[-rows,]
+```
+
+
+```{r}
+glm1 <- glm(wonSet ~ unforcedErrs + earnedPts, df, family="binomial")
+summary(glm1)
+```
+
+
+```{r}
+glm2 <- glm(wonSet~serveErr + setErr + attackErr + freeballErr + ace + kill + stuffBlock, training, family="binomial")
+summary(glm2)
+```
+
+```{r}
+glm3 <- glm(wonSet~I(serveErr^2) + I(setErr^2) + I(attackErr^2) + I(freeballErr^2) + I(ace^2) + I(kill^2) + I(stuffBlock^2), df, family="binomial")
+summary(glm3)
+
+#aces vs service errors to be more aggressive towards aces
+#s curve transformation
+#stanford serves 
+```
+
+```{r}
+require(gridExtra)
+# Curve of winning set based on kills
+kills <- ggplot(df, aes(x=kill, y=wonSet)) +
+  labs(x = "Kills", y = "Probability to Win Set", title = "Kills")+ 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+
+# Curve of winning set based on attack error 
+atckerr <- ggplot(df, aes(x=attackErr, y=wonSet)) +
+  labs(x = "Attack Errors", y = "Probability to Win Set", title = "Attack Error")+
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+# while getting more kills does lead to a higher chance of winning, making attack errors seem to be more harmful 
+
+grid.arrange(kills, atckerr, ncol = 2)
+```
+
+```{r}
+# Curve of winning set based on service error
+serverr <- ggplot(df, aes(x=serveErr, y=wonSet))+
+  labs(x = "Service Errors", y = "Probability to Win Set", title = "Service Error") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+
+opp_no603 <- opp[-603,]
+serverr_opp <- ggplot(opp, aes(x=serveErr, y=wonSet))+
+  labs(x = "Service Errors", y = "Probability to Win Set", title = "Service Error") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+# What does a service error consist of? 
+```
+
+```{r}
+# Curve of winning set based on aces 
+aces <- ggplot(df, aes(x=ace, y=wonSet))+
+  labs(x = "Aces", y = "Probability to Win Set", title = "Aces") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+# Based off these, getting more/less service errors don't seem to affect winning the set whereas getting more aces does. This could influence coaches to go for more aces while accepting the risk of making a service error. 
+
+opp_aces <- ggplot(opp, aes(x=ace, y=wonSet)) +
+  labs(x = "Aces", y = "Probability to Win Set", title = "Aces") +
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+
+grid.arrange(aces, serverr, ncol = 2)
+grid.arrange(opp_aces, serverr_opp, ncol = 2)
+```
+
+```{r}
+# Curve of winning set based on set error DIFFERENT
+seterr <- ggplot(df, aes(x=setErr, y=wonSet))+
+  labs(x = "Set Errors", y = "Probability to Win Set", title = "CU") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+seterr_opp <- ggplot(opp, aes(x=setErr, y=wonSet))+
+  labs(x = "Set Errors", y = "Probability to Win Set", title = "Opponent") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+grid.arrange(seterr, seterr_opp, ncol = 2)
+```
+
+```{r}
+# Curve of winning set based on stuff block 
+stuffblck <- ggplot(df, aes(x=stuffBlock, y=wonSet))+
+  labs(x = "Stuff Blocks", y = "Probability to Win Set", title = "CU") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+stuffblck_opp <- ggplot(opp, aes(x=stuffBlock, y=wonSet))+
+  labs(x = "Stuff Blocks", y = "Probability to Win Set", title = "Opponent") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+grid.arrange(stuffblck, stuffblck_opp, ncol = 2)
+```
+```{r}
+# Curve of winning set based on free ball error DIFFERENT
+frblerr <- ggplot(df, aes(x=freeballErr, y=wonSet))+
+  labs(x = "Free Ball Errors", y = "Probability to Win Set", title = "CU") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+frblerr_opp <- ggplot(opp, aes(x=freeballErr, y=wonSet))+
+  labs(x = "Free Ball Errors", y = "Probability to Win Set", title = "Opponent") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+grid.arrange(frblerr, frblerr_opp, ncol = 2)
+```
+
+```{r}
+# Curve of winning set based on earned points 
+earnpts <- ggplot(df, aes(x=earnedPts, y=wonSet))+
+  labs(x = "Earned Points", y = "Probability to Win Set", title = "Earned Points CU") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+earnpts_opp <- ggplot(opp, aes(x=earnedPts, y=wonSet))+
+  labs(x = "Earned Points", y = "Probability to Win Set", title = "Earned Points OPP") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+grid.arrange(earnpts, earnpts_opp, ncol = 2)
+```
+
+```{r}
+# Curve of winning set based on unforced errors 
+unferr <- ggplot(df, aes(x=unforcedErrs, y=wonSet))+
+  labs(x = "Unforced Errors", y = "Probability to Win Set", title = "Unforced Errors") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+
+unferr_opp <- ggplot(opp, aes(x=unforcedErrs, y=wonSet))+
+  labs(x = "Unforced Errors", y = "Probability to Win Set", title = "Unforced Errors") + 
+  geom_jitter(height = 0.05, alpha = 0.3) +
+  stat_smooth(method="glm", se=TRUE, method.args = list(family=binomial))
+grid.arrange(unferr, unferr_opp, ncol = 2)
+
+grid.arrange(earnpts, unferr, ncol = 2)
+#relationshiop between earning points and oppurtunities to winning points
+#kill percent vs prob to win set
+#look into stat_smooth a bit
+#cvms
+```
+
+```{r}
+library(caret)
+set.seed(459)
+
+training$wonSet[training$wonSet==1] <- "won"
+training$wonSet[training$wonSet==0] <- "lost"
+
+testing$wonSet[testing$wonSet==1] <- "won"
+testing$wonSet[testing$wonSet==0] <- "lost"
+
+training$wonSet <- as.factor(training$wonSet)
+testing$wonSet <- as.factor(testing$wonSet)
+
+ctrlspecs <- trainControl(method="cv", 
+                          number=15, 
+                          savePredictions="all",
+                          classProbs=TRUE)
+model_acc <- train(wonSet~serveErr + setErr + attackErr + freeballErr + ace + kill + stuffBlock, training, family="binomial", trControl = ctrlspecs)
+
+model_acc2 <- train(wonSet~serveErr^2 + setErr^2 + stuffBlock^2 + freeballErr^2 + attackErr^2 + ace^2 + kill^2, training, family="binomial", trControl = ctrlspecs)
+
+# K-fold cross validation
+print(model_acc)
+summary(model_acc)
+varImp(model_acc)
+
+print(model_acc2)
+summary(model_acc2)
+varImp(model_acc2)
+
+
+# Confusion Matrices
+predictions <- predict(model_acc, newdata=testing)
+confusionMatrix(data=predictions, testing$wonSet)
+
+predictions2 <- predict(model_acc2, newdata=testing)
+confusionMatrix(data=predictions2, testing$wonSet)
+# what is a high accuracy
+
+```
+

@@ -1,0 +1,688 @@
+setname,opponent,season,wonSet,wonMatch,unforcedErrs,earnedPts,serveErr,setErr,attackErr,freeballErr,ace,kill,stuffBlock
+170825 CU vs NSULA 3-1s1,NSULA,17,True,True,5,18,4,0,1,0,1,15,2
+170825 CU vs NSULA 3-1s2,NSULA,17,False,True,8,19,2,0,4,2,1,13,5
+170825 CU vs NSULA 3-1s3,NSULA,17,True,True,7,16,3,0,4,0,1,13,2
+170825 CU vs NSULA 3-1s4,NSULA,17,True,True,3,19,0,1,2,0,1,12,6
+170916 CU @ CO St 3-2s1,CO St,17,False,True,8,17,6,0,2,0,0,16,1
+170916 CU @ CO St 3-2s2,CO St,17,False,True,6,22,3,0,3,0,1,19,2
+170916 CU @ CO St 3-2s3,CO St,17,True,True,4,21,2,0,2,0,2,16,3
+170916 CU @ CO St 3-2s4,CO St,17,True,True,5,16,2,0,3,0,3,10,3
+170916 CU @ CO St 3-2s5,CO St,17,True,True,1,11,1,0,0,0,1,9,1
+210205 CU vs Cal 3-2s1,Cal,21S,False,True,7,17,3,0,3,1,3,11,3
+210205 CU vs Cal 3-2s2,Cal,21S,True,True,3,20,2,0,1,0,1,16,3
+210205 CU vs Cal 3-2s3,Cal,21S,True,True,1,17,0,0,1,0,4,13,0
+210205 CU vs Cal 3-2s4,Cal,21S,False,True,9,14,4,1,3,1,0,13,1
+210205 CU vs Cal 3-2s5,Cal,21S,True,True,2,12,1,0,1,0,0,9,3
+210207 CU vs Cal 3-0s1,Cal,21S,True,True,7,19,2,1,3,1,3,14,2
+210207 CU vs Cal 3-0s2,Cal,21S,True,True,3,19,1,1,1,0,2,13,4
+210207 CU vs Cal 3-0s3,Cal,21S,True,True,2,21,1,0,1,0,4,15,2
+210211 CU @ WA St 1-3s1,WA St,21S,False,False,5,11,2,1,2,0,1,10,0
+210211 CU @ WA St 1-3s2,WA St,21S,False,False,6,13,2,0,3,1,1,11,1
+210211 CU @ WA St 1-3s3,WA St,21S,True,False,6,17,3,1,2,0,1,10,6
+210211 CU @ WA St 1-3s4,WA St,21S,False,False,7,17,3,0,4,0,1,14,2
+210213 CU @ WA St 0-3s1,WA St,21S,False,False,6,14,1,1,4,0,1,11,2
+210213 CU @ WA St 0-3s2,WA St,21S,False,False,5,14,1,0,4,0,3,11,0
+210213 CU @ WA St 0-3s3,WA St,21S,False,False,4,16,1,0,3,0,1,13,2
+210219 CU vs WA 2-3s1,WA,21S,True,False,7,19,1,1,5,0,3,13,3
+210219 CU vs WA 2-3s2,WA,21S,False,False,4,19,2,0,2,0,1,17,1
+210219 CU vs WA 2-3s3,WA,21S,True,False,4,21,0,0,4,0,2,18,1
+210219 CU vs WA 2-3s4,WA,21S,False,False,6,19,4,0,2,0,0,15,4
+210219 CU vs WA 2-3s5,WA,21S,False,False,4,11,1,0,3,0,0,9,2
+210221 CU vs WA 0-3s1,WA,21S,False,False,9,12,2,1,6,0,0,11,1
+210221 CU vs WA 0-3s2,WA,21S,False,False,4,14,1,0,3,0,0,13,1
+210221 CU vs WA 0-3s3,WA,21S,False,False,5,17,0,0,5,0,0,13,4
+210226 CU @ OR 0-3s1,OR,21S,False,False,4,13,1,0,3,0,0,11,2
+210226 CU @ OR 0-3s2,OR,21S,False,False,2,15,1,0,1,0,1,13,1
+210226 CU @ OR 0-3s3,OR,21S,False,False,1,11,1,0,0,0,1,9,1
+210228 CU @ OR 1-3s1,OR,21S,True,False,1,17,1,0,0,0,1,13,3
+210228 CU @ OR 1-3s2,OR,21S,False,False,10,12,5,1,4,0,1,8,3
+210228 CU @ OR 1-3s3,OR,21S,False,False,5,14,3,1,1,0,1,12,1
+210228 CU @ OR 1-3s4,OR,21S,False,False,9,11,1,0,8,0,0,10,1
+210305 CU vs UCLA 1-3s1,UCLA,21S,False,False,8,12,2,1,5,0,0,10,2
+210305 CU vs UCLA 1-3s2,UCLA,21S,True,False,5,24,4,0,1,0,1,20,3
+210305 CU vs UCLA 1-3s3,UCLA,21S,False,False,5,12,1,0,4,0,1,10,1
+210305 CU vs UCLA 1-3s4,UCLA,21S,False,False,7,15,2,1,4,0,0,11,4
+210307 CU vs UCLA 3-1s1,UCLA,21S,True,True,8,22,2,0,4,2,1,19,2
+210307 CU vs UCLA 3-1s2,UCLA,21S,False,True,7,21,3,1,3,0,1,17,3
+210307 CU vs UCLA 3-1s3,UCLA,21S,True,True,9,22,3,1,4,1,2,15,5
+210307 CU vs UCLA 3-1s4,UCLA,21S,True,True,8,20,4,0,4,0,2,15,3
+170916 CU vs Albany 3-0s1,Albany,17,True,True,9,19,2,0,7,0,1,16,2
+170916 CU vs Albany 3-0s2,Albany,17,True,True,4,17,1,0,3,0,0,15,2
+170916 CU vs Albany 3-0s3,Albany,17,True,True,5,21,1,1,3,0,3,13,5
+210312 CU @ AZ 1-3s1,AZ,21S,False,False,11,16,5,0,6,0,2,13,1
+210312 CU @ AZ 1-3s2,AZ,21S,True,False,10,17,3,2,5,0,1,15,1
+210312 CU @ AZ 1-3s3,AZ,21S,False,False,5,9,1,0,4,0,0,8,1
+210312 CU @ AZ 1-3s4,AZ,21S,False,False,4,16,1,0,3,0,4,11,1
+210314 CU @ AZ 1-3s1,AZ,21S,False,False,7,17,3,0,4,0,6,10,1
+210314 CU @ AZ 1-3s2,AZ,21S,True,False,6,16,4,1,1,0,0,15,1
+210314 CU @ AZ 1-3s3,AZ,21S,False,False,3,15,1,0,2,0,0,11,4
+210314 CU @ AZ 1-3s4,AZ,21S,False,False,5,13,2,0,3,0,1,10,2
+210319 CU vs UT 3-2s1,UT,21S,False,True,6,19,2,0,3,1,1,18,0
+210319 CU vs UT 3-2s2,UT,21S,True,True,2,19,0,0,2,0,2,14,3
+210319 CU vs UT 3-2s3,UT,21S,False,True,7,11,3,0,4,0,0,7,4
+210319 CU vs UT 3-2s4,UT,21S,True,True,6,23,1,0,5,0,3,17,3
+210319 CU vs UT 3-2s5,UT,21S,True,True,2,12,1,0,1,0,2,10,0
+210321 CU @ UT 0-3s1,UT,21S,False,False,5,15,2,0,3,0,0,13,2
+210321 CU @ UT 0-3s2,UT,21S,False,False,6,13,1,2,3,0,1,9,3
+210321 CU @ UT 0-3s3,UT,21S,False,False,7,11,2,0,5,0,1,9,1
+210326 CU vs AZ St 3-2s1,AZ St,21S,False,True,2,13,1,0,1,0,1,12,0
+210326 CU vs AZ St 3-2s2,AZ St,21S,True,True,2,18,1,0,1,0,3,13,2
+210326 CU vs AZ St 3-2s3,AZ St,21S,True,True,3,19,3,0,0,0,6,10,3
+210326 CU vs AZ St 3-2s4,AZ St,21S,False,True,11,8,5,0,6,0,0,8,0
+210326 CU vs AZ St 3-2s5,AZ St,21S,True,True,1,12,0,0,1,0,3,8,1
+210328 CU vs AZ St 3-0s1,AZ St,21S,True,True,6,17,1,0,5,0,2,14,1
+210328 CU vs AZ St 3-0s2,AZ St,21S,True,True,4,20,3,0,1,0,2,14,4
+210328 CU vs AZ St 3-0s3,AZ St,21S,True,True,6,18,2,0,4,0,3,12,3
+210401 CU @ USC 1-3s1,USC,21S,True,False,6,16,4,0,2,0,0,13,3
+210401 CU @ USC 1-3s2,USC,21S,False,False,4,12,1,0,3,0,0,9,3
+210401 CU @ USC 1-3s3,USC,21S,False,False,11,17,7,1,3,0,0,14,3
+210401 CU @ USC 1-3s4,USC,21S,False,False,8,16,4,0,4,0,0,15,1
+210403 CU @ USC 0-3s1,USC,21S,False,False,3,12,2,0,1,0,0,7,5
+210403 CU @ USC 0-3s2,USC,21S,False,False,6,10,4,1,1,0,1,9,0
+210403 CU @ USC 0-3s3,USC,21S,False,False,4,13,1,1,2,0,1,8,4
+210828 CU @ UNCC 3-0s1,UNCC,21,True,True,2,22,1,0,1,0,1,21,0
+210828 CU @ UNCC 3-0s2,UNCC,21,True,True,5,17,2,0,3,0,2,13,2
+210828 CU @ UNCC 3-0s3,UNCC,21,True,True,3,20,2,0,1,0,2,14,4
+210828 CU vs Xav 3-1s1,Xavier,21,True,True,7,20,3,1,3,0,3,13,4
+210828 CU vs Xav 3-1s2,Xavier,21,False,True,4,19,2,0,2,0,0,17,2
+210828 CU vs Xav 3-1s3,Xavier,21,True,True,9,20,5,0,4,0,2,15,3
+210828 CU vs Xav 3-1s4,Xavier,21,True,True,7,22,1,0,6,0,2,16,4
+170922 CU @ UT 1-3s1,UT,17,False,False,5,10,2,1,2,0,0,9,1
+170922 CU @ UT 1-3s2,UT,17,True,False,6,16,3,1,2,0,0,13,3
+170922 CU @ UT 1-3s3,UT,17,False,False,3,14,0,0,3,0,2,8,4
+170922 CU @ UT 1-3s4,UT,17,False,False,4,15,0,0,4,0,1,13,1
+210903 CU vs IA 3-1s1,IA,21,True,True,5,16,3,0,2,0,4,9,3
+210903 CU vs IA 3-1s2,IA,21,True,True,4,19,1,0,3,0,0,15,4
+210903 CU vs IA 3-1s3,IA,21,False,True,9,17,1,1,6,1,1,14,2
+210903 CU vs IA 3-1s4,IA,21,True,True,5,19,2,0,3,0,3,14,2
+210904 CU @ IL 3-2s1,IL,21,True,True,6,15,1,0,5,0,1,10,4
+210904 CU @ IL 3-2s2,IL,21,True,True,6,16,2,0,4,0,0,15,1
+210904 CU @ IL 3-2s3,IL,21,False,True,4,10,1,0,3,0,1,9,0
+210904 CU @ IL 3-2s4,IL,21,False,True,6,14,1,1,4,0,0,10,4
+210904 CU @ IL 3-2s5,IL,21,True,True,2,15,1,0,1,0,0,13,2
+210910 CU vs SJSU 3-0s1,SJSU,21,True,True,3,16,2,0,1,0,1,11,4
+210910 CU vs SJSU 3-0s2,SJSU,21,True,True,4,18,0,0,4,0,1,10,7
+210910 CU vs SJSU 3-0s3,SJSU,21,True,True,2,19,1,0,1,0,0,14,5
+210910 CU vs TTU 3-1s1,TTU,21,True,True,2,26,1,0,1,0,1,23,2
+210910 CU vs TTU 3-1s2,TTU,21,True,True,5,16,3,0,2,0,1,14,1
+210910 CU vs TTU 3-1s3,TTU,21,False,True,3,15,0,0,3,0,0,13,2
+210910 CU vs TTU 3-1s4,TTU,21,True,True,4,21,3,0,1,0,1,17,3
+210911 CU vs UNCO 3-1s1,UNCO,21,False,True,8,16,2,0,6,0,0,14,2
+210911 CU vs UNCO 3-1s2,UNCO,21,True,True,2,16,1,0,1,0,1,12,3
+210911 CU vs UNCO 3-1s3,UNCO,21,True,True,2,19,1,0,1,0,2,13,4
+210911 CU vs UNCO 3-1s4,UNCO,21,True,True,3,20,1,0,2,0,1,14,5
+210916 CU vs CO St 3-1s1,CO St,21,False,True,5,17,2,0,3,0,0,12,5
+210916 CU vs CO St 3-1s2,CO St,21,True,True,3,18,1,0,2,0,0,15,3
+210916 CU vs CO St 3-1s3,CO St,21,True,True,6,18,2,1,3,0,0,16,2
+210916 CU vs CO St 3-1s4,CO St,21,True,True,7,16,2,0,5,0,2,12,2
+210918 CU @ CO St 3-0s1,CO St,21,True,True,6,16,2,0,4,0,0,13,3
+210918 CU @ CO St 3-0s2,CO St,21,True,True,6,18,3,0,3,0,0,14,4
+210918 CU @ CO St 3-0s3,CO St,21,True,True,3,20,0,0,3,0,3,13,4
+210922 CU @ WA St 0-3s1,WA St,21,False,False,3,13,1,0,2,0,1,11,1
+210922 CU @ WA St 0-3s2,WA St,21,False,False,7,15,1,1,4,1,2,10,3
+210922 CU @ WA St 0-3s3,WA St,21,False,False,3,19,3,0,0,0,2,14,3
+210924 CU vs UT 3-0s1,UT,21,True,True,1,16,0,0,1,0,0,12,4
+210924 CU vs UT 3-0s2,UT,21,True,True,1,16,1,0,0,0,0,15,1
+210924 CU vs UT 3-0s3,UT,21,True,True,6,19,2,0,3,1,2,16,1
+211001 CU vs OR 1-3s1,OR,21,True,False,4,17,1,0,3,0,1,15,1
+211001 CU vs OR 1-3s2,OR,21,False,False,5,11,1,1,3,0,1,9,1
+211001 CU vs OR 1-3s3,OR,21,False,False,6,16,1,0,5,0,0,13,3
+211001 CU vs OR 1-3s4,OR,21,False,False,5,18,2,0,3,0,0,15,3
+170924 CU vs Stan 2-3s1,Stan,17,True,False,8,16,1,0,7,0,1,11,4
+170924 CU vs Stan 2-3s2,Stan,17,False,False,4,6,0,0,4,0,0,5,1
+170924 CU vs Stan 2-3s3,Stan,17,True,False,5,27,3,0,2,0,2,24,1
+170924 CU vs Stan 2-3s4,Stan,17,False,False,7,17,1,0,5,1,0,15,2
+170924 CU vs Stan 2-3s5,Stan,17,False,False,1,9,0,0,1,0,0,8,1
+211003 CU vs OR St 3-0s1,OR St,21,True,True,3,19,1,0,2,0,0,17,2
+211003 CU vs OR St 3-0s2,OR St,21,True,True,3,16,1,0,2,0,1,12,3
+211003 CU vs OR St 3-0s3,OR St,21,True,True,8,14,4,0,4,0,2,9,3
+211008 CU @ UCLA 0-3s1,UCLA,21,False,False,3,15,1,1,1,0,1,12,2
+211008 CU @ UCLA 0-3s2,UCLA,21,False,False,5,9,5,0,0,0,0,8,1
+211008 CU @ UCLA 0-3s3,UCLA,21,False,False,4,9,0,0,4,0,0,8,1
+211010 CU @ USC 1-3s1,USC,21,False,False,4,15,1,0,2,1,3,11,1
+211010 CU @ USC 1-3s2,USC,21,False,False,9,17,4,0,4,1,1,15,1
+211010 CU @ USC 1-3s3,USC,21,True,False,2,11,1,0,1,0,0,11,0
+211010 CU @ USC 1-3s4,USC,21,False,False,4,16,1,0,2,1,0,14,2
+211015 CU @ Cal 3-0s1,Cal,21,True,True,7,18,2,0,5,0,3,13,2
+211015 CU @ Cal 3-0s2,Cal,21,True,True,4,19,4,0,0,0,2,11,6
+211015 CU @ Cal 3-0s3,Cal,21,True,True,3,20,1,0,2,0,3,13,4
+211017 CU @ Stan 0-3s1,Stan,21,False,False,3,14,1,0,2,0,1,10,3
+211017 CU @ Stan 0-3s2,Stan,21,False,False,3,10,0,1,2,0,1,6,3
+211017 CU @ Stan 0-3s3,Stan,21,False,False,3,13,1,0,2,0,0,10,3
+211022 CU vs AZ 1-3s1,AZ,21,True,False,3,17,0,0,3,0,2,14,1
+211022 CU vs AZ 1-3s2,AZ,21,False,False,7,12,2,0,5,0,0,11,1
+211022 CU vs AZ 1-3s3,AZ,21,False,False,7,25,1,0,6,0,4,19,2
+211022 CU vs AZ 1-3s4,AZ,21,False,False,6,13,2,0,3,1,0,13,0
+211024 CU vs AZ St 1-3s1,AZ St,21,False,False,8,17,4,0,4,0,1,14,2
+211024 CU vs AZ St 1-3s2,AZ St,21,True,False,6,27,1,0,5,0,2,20,5
+211024 CU vs AZ St 1-3s3,AZ St,21,False,False,7,13,0,0,7,0,0,12,1
+211024 CU vs AZ St 1-3s4,AZ St,21,False,False,5,14,1,0,4,0,0,12,2
+211029 CU @ OR St 3-1s1,OR St,21,False,True,6,17,2,0,3,1,0,15,2
+211029 CU @ OR St 3-1s2,OR St,21,True,True,6,17,2,1,3,0,4,11,2
+211029 CU @ OR St 3-1s3,OR St,21,True,True,5,21,1,0,3,1,3,15,3
+211029 CU @ OR St 3-1s4,OR St,21,True,True,4,17,2,0,2,0,1,11,5
+211031 CU @ OR 2-3s1,OR,21,True,False,2,18,0,0,2,0,3,12,3
+211031 CU @ OR 2-3s2,OR,21,False,False,4,13,2,1,1,0,0,12,1
+211031 CU @ OR 2-3s3,OR,21,True,False,5,14,1,0,4,0,1,11,2
+211031 CU @ OR 2-3s4,OR,21,False,False,2,11,1,0,1,0,2,8,1
+211031 CU @ OR 2-3s5,OR,21,False,False,5,14,2,0,3,0,1,11,2
+211105 CU vs USC 3-1s1,USC,21,True,True,4,18,2,0,2,0,3,14,1
+211105 CU vs USC 3-1s2,USC,21,False,True,4,11,0,0,4,0,2,8,1
+211105 CU vs USC 3-1s3,USC,21,True,True,2,19,1,0,1,0,2,13,4
+211105 CU vs USC 3-1s4,USC,21,True,True,5,17,1,0,4,0,2,13,2
+170929 CU vs OR St 3-2s1,OR St,17,True,True,3,20,0,0,3,0,3,15,2
+170929 CU vs OR St 3-2s2,OR St,17,False,True,5,20,1,0,4,0,1,17,2
+170929 CU vs OR St 3-2s3,OR St,17,True,True,6,17,2,0,4,0,1,14,2
+170929 CU vs OR St 3-2s4,OR St,17,False,True,5,7,0,1,4,0,1,5,1
+170929 CU vs OR St 3-2s5,OR St,17,True,True,0,10,0,0,0,0,1,9,0
+211107 CU vs UCLA 0-3s1,UCLA,21,False,False,3,16,1,0,2,0,0,15,1
+211107 CU vs UCLA 0-3s2,UCLA,21,False,False,4,13,0,0,4,0,1,12,0
+211107 CU vs UCLA 0-3s3,UCLA,21,False,False,7,13,2,0,5,0,1,10,2
+211112 CU @ AZ St 1-3s1,AZ St,21,False,False,5,8,1,0,3,1,0,6,2
+211112 CU @ AZ St 1-3s2,AZ St,21,True,False,2,21,0,0,2,0,1,13,7
+211112 CU @ AZ St 1-3s3,AZ St,21,False,False,7,17,5,0,2,0,0,16,1
+211112 CU @ AZ St 1-3s4,AZ St,21,False,False,7,17,4,2,1,0,1,11,5
+211114 CU @ AZ 1-3s1,AZ,21,False,False,4,13,1,0,3,0,2,10,1
+211114 CU @ AZ 1-3s2,AZ,21,True,False,6,18,3,0,3,0,1,15,2
+211114 CU @ AZ 1-3s3,AZ,21,False,False,4,13,0,0,4,0,0,12,1
+211114 CU @ AZ 1-3s4,AZ,21,False,False,5,24,2,0,3,0,3,18,3
+211118 CU vs Stan 1-3s1,Stan,21,False,False,6,14,3,0,3,0,0,11,3
+211118 CU vs Stan 1-3s2,Stan,21,False,False,9,14,4,0,5,0,0,14,0
+211118 CU vs Stan 1-3s3,Stan,21,True,False,3,21,1,0,2,0,1,17,3
+211118 CU vs Stan 1-3s4,Stan,21,False,False,5,19,2,0,3,0,3,14,2
+211121 CU vs Cal 3-0s1,Cal,21,True,True,2,20,0,0,1,1,3,15,2
+211121 CU vs Cal 3-0s2,Cal,21,True,True,2,19,0,0,2,0,0,17,2
+211121 CU vs Cal 3-0s3,Cal,21,True,True,9,22,2,0,7,0,1,14,7
+211124 CU vs WA 1-3s1,WA,21,False,False,6,10,2,0,4,0,0,9,1
+211124 CU vs WA 1-3s2,WA,21,True,False,6,23,2,0,4,0,4,15,4
+211124 CU vs WA 1-3s3,WA,21,False,False,3,18,0,0,3,0,0,18,0
+211124 CU vs WA 1-3s4,WA,21,False,False,7,14,3,0,4,0,0,13,1
+211127 CU @ UT 1-3s1,UT,21,False,False,1,15,1,0,0,0,0,14,1
+211127 CU @ UT 1-3s2,UT,21,True,False,2,17,0,0,2,0,0,13,4
+211127 CU @ UT 1-3s3,UT,21,False,False,7,11,2,1,4,0,1,9,1
+211127 CU @ UT 1-3s4,UT,21,False,False,5,16,0,0,4,1,0,13,3
+220826 CU vs UWGB 3-0s1,UWGB,22,True,True,4,21,2,0,1,1,1,14,6
+220826 CU vs UWGB 3-0s2,UWGB,22,True,True,10,22,2,0,8,0,3,17,2
+220826 CU vs UWGB 3-0s3,UWGB,22,True,True,5,20,3,0,2,0,1,16,3
+220826 CU vs W MI 3-1s1,W MI,22,False,True,7,14,3,0,4,0,0,11,3
+220826 CU vs W MI 3-1s2,W MI,22,True,True,7,18,2,1,4,0,2,14,2
+220826 CU vs W MI 3-1s3,W MI,22,True,True,2,20,0,0,2,0,1,17,2
+220826 CU vs W MI 3-1s4,W MI,22,True,True,3,18,1,0,2,0,4,10,4
+220827 CU vs Den 3-2s1,Den,22,True,True,2,19,1,0,1,0,1,13,5
+220827 CU vs Den 3-2s2,Den,22,False,True,8,16,4,0,3,1,0,11,5
+220827 CU vs Den 3-2s3,Den,22,False,True,6,17,2,1,3,0,1,13,3
+220827 CU vs Den 3-2s4,Den,22,True,True,5,23,1,1,3,0,0,17,6
+220827 CU vs Den 3-2s5,Den,22,True,True,1,13,1,0,0,0,0,10,3
+170930 CU vs OR 3-1s1,OR,17,True,True,6,19,4,0,2,0,0,11,8
+170930 CU vs OR 3-1s2,OR,17,False,True,5,18,1,1,3,0,2,13,3
+170930 CU vs OR 3-1s3,OR,17,True,True,2,21,1,0,1,0,1,18,2
+170930 CU vs OR 3-1s4,OR,17,True,True,5,21,2,0,3,0,1,15,5
+220903 CU vs IL 3-0s1,IL,22,True,True,8,19,6,0,2,0,0,17,2
+220903 CU vs IL 3-0s2,IL,22,True,True,2,17,2,0,0,0,1,13,3
+220903 CU vs IL 3-0s3,IL,22,True,True,5,19,3,0,2,0,0,14,5
+220904 CU vs IA 3-0s1,IA,22,True,True,5,21,2,0,2,1,2,16,3
+220904 CU vs IA 3-0s2,IA,22,True,True,7,18,3,0,3,1,2,12,4
+220904 CU vs IA 3-0s3,IA,22,True,True,3,19,1,0,2,0,3,15,1
+220909 CU vs FIU 3-0s1,FIU,22,True,True,6,15,1,3,2,0,3,10,2
+220909 CU vs FIU 3-0s2,FIU,22,True,True,4,19,2,0,2,0,0,14,5
+220909 CU vs FIU 3-0s3,FIU,22,True,True,4,21,1,0,3,0,1,19,1
+220909 CU vs UALR 3-0s1,UALR,22,True,True,2,20,2,0,0,0,3,15,2
+220909 CU vs UALR 3-0s2,UALR,22,True,True,5,22,0,1,2,2,2,18,2
+220909 CU vs UALR 3-0s3,UALR,22,True,True,8,17,3,0,4,1,0,14,3
+220911 CU @ AR 0-3s1,AR,22,False,False,4,13,1,1,2,0,1,9,3
+220911 CU @ AR 0-3s2,AR,22,False,False,6,12,3,0,3,0,0,11,1
+220911 CU @ AR 0-3s3,AR,22,False,False,5,10,2,0,3,0,0,7,3
+220915 CU @ CO St 1-3s1,CO St,22,False,False,3,15,0,1,2,0,0,14,1
+220915 CU @ CO St 1-3s2,CO St,22,False,False,3,18,0,0,3,0,2,13,3
+220915 CU @ CO St 1-3s3,CO St,22,True,False,6,20,4,0,2,0,3,14,3
+220915 CU @ CO St 1-3s4,CO St,22,False,False,5,16,2,0,3,0,3,11,2
+220916 CU vs CO St 3-2s1,CO St,22,False,True,3,17,1,1,1,0,1,14,2
+220916 CU vs CO St 3-2s2,CO St,22,False,True,11,8,1,0,10,0,0,6,2
+220916 CU vs CO St 3-2s3,CO St,22,True,True,6,20,2,0,4,0,0,18,2
+220916 CU vs CO St 3-2s4,CO St,22,True,True,5,20,3,0,2,0,1,14,5
+220916 CU vs CO St 3-2s5,CO St,22,True,True,0,11,0,0,0,0,0,8,3
+220922 CU @ UT 3-0s1,UT,22,True,True,5,18,3,0,2,0,1,14,3
+220922 CU @ UT 3-0s2,UT,22,True,True,3,12,1,1,1,0,3,7,2
+220922 CU @ UT 3-0s3,UT,22,True,True,7,18,3,0,4,0,0,15,3
+220925 CU vs AZ St 3-0s1,AZ St,22,True,True,8,23,2,1,5,0,4,18,1
+220925 CU vs AZ St 3-0s2,AZ St,22,True,True,4,20,2,0,2,0,2,14,4
+220925 CU vs AZ St 3-0s3,AZ St,22,True,True,4,18,0,0,4,0,0,17,1
+220930 CU @ USC 1-3s1,USC,22,False,False,4,11,2,0,2,0,1,8,2
+220930 CU @ USC 1-3s2,USC,22,True,False,8,18,5,1,2,0,2,13,3
+220930 CU @ USC 1-3s3,USC,22,False,False,5,13,4,0,1,0,1,10,2
+220930 CU @ USC 1-3s4,USC,22,False,False,8,18,4,0,3,1,1,14,3
+171006 CU @ WA St 1-3s1,WA St,17,False,False,7,18,3,0,4,0,0,17,1
+171006 CU @ WA St 1-3s2,WA St,17,False,False,2,14,1,0,1,0,0,9,5
+171006 CU @ WA St 1-3s3,WA St,17,True,False,7,16,2,0,5,0,1,15,0
+171006 CU @ WA St 1-3s4,WA St,17,False,False,9,22,3,0,5,1,1,18,3
+221002 CU @ UCLA 3-1s1,UCLA,22,True,True,1,19,0,1,0,0,0,12,7
+221002 CU @ UCLA 3-1s2,UCLA,22,True,True,3,19,3,0,0,0,3,12,4
+221002 CU @ UCLA 3-1s3,UCLA,22,False,True,5,18,3,0,2,0,0,13,5
+221002 CU @ UCLA 3-1s4,UCLA,22,True,True,0,18,0,0,0,0,0,13,5
+221007 CU vs Stan 1-3s1,Stan,22,False,False,3,10,0,0,3,0,0,9,1
+221007 CU vs Stan 1-3s2,Stan,22,True,False,4,17,2,0,2,0,2,13,2
+221007 CU vs Stan 1-3s3,Stan,22,False,False,4,14,2,0,2,0,0,13,1
+221007 CU vs Stan 1-3s4,Stan,22,False,False,2,18,1,0,1,0,3,11,4
+221009 CU vs Cal 3-0s1,Cal,22,True,True,3,16,1,0,2,0,0,15,1
+221009 CU vs Cal 3-0s2,Cal,22,True,True,4,21,1,0,2,1,1,17,3
+221009 CU vs Cal 3-0s3,Cal,22,True,True,4,21,2,1,1,0,2,16,3
+221014 CU vs WA St 3-1s1,WA St,22,True,True,9,19,2,3,3,1,3,14,2
+221014 CU vs WA St 3-1s2,WA St,22,True,True,4,19,2,0,2,0,1,14,4
+221014 CU vs WA St 3-1s3,WA St,22,False,True,4,9,1,0,3,0,0,9,0
+221014 CU vs WA St 3-1s4,WA St,22,True,True,2,17,2,0,0,0,1,11,5
+221021 CU @ OR St 1-3s1,OR St,22,False,False,0,14,0,0,0,0,1,13,0
+221021 CU @ OR St 1-3s2,OR St,22,True,False,4,17,2,0,1,1,2,12,3
+221021 CU @ OR St 1-3s3,OR St,22,False,False,5,16,2,0,3,0,1,13,2
+221021 CU @ OR St 1-3s4,OR St,22,False,False,5,12,3,0,2,0,3,8,1
+221023 CU @ OR 0-3s1,OR,22,False,False,8,23,2,0,6,0,1,19,3
+221023 CU @ OR 0-3s2,OR,22,False,False,6,11,1,0,5,0,1,8,2
+221023 CU @ OR 0-3s3,OR,22,False,False,6,16,3,0,3,0,2,12,2
+221028 CU vs UCLA 3-1s1,UCLA,22,True,True,7,17,1,0,6,0,1,14,2
+221028 CU vs UCLA 3-1s2,UCLA,22,False,True,7,14,5,0,2,0,0,11,3
+221028 CU vs UCLA 3-1s3,UCLA,22,True,True,1,20,1,0,0,0,0,16,4
+221028 CU vs UCLA 3-1s4,UCLA,22,True,True,6,18,1,1,4,0,1,13,4
+221030 CU vs USC 3-1s1,USC,22,False,True,2,12,0,0,2,0,1,9,2
+221030 CU vs USC 3-1s2,USC,22,True,True,2,14,2,0,0,0,2,8,4
+221030 CU vs USC 3-1s3,USC,22,True,True,4,21,1,2,0,1,4,14,3
+221030 CU vs USC 3-1s4,USC,22,True,True,4,22,3,0,1,0,3,14,5
+221104 CU @ Cal 3-1s1,Cal,22,True,True,3,20,0,1,2,0,3,13,4
+221104 CU @ Cal 3-1s2,Cal,22,False,True,5,10,2,1,2,0,0,8,2
+221104 CU @ Cal 3-1s3,Cal,22,True,True,2,20,0,0,2,0,0,13,7
+221104 CU @ Cal 3-1s4,Cal,22,True,True,4,22,3,0,1,0,0,19,3
+221106 CU @ Stan 0-3s1,Stan,22,False,False,3,8,0,1,2,0,0,7,1
+221106 CU @ Stan 0-3s2,Stan,22,False,False,4,15,4,0,0,0,1,11,3
+221106 CU @ Stan 0-3s3,Stan,22,False,False,4,11,4,0,0,0,1,8,2
+171008 CU @ WA 0-3s1,WA,17,False,False,1,17,0,0,1,0,1,15,1
+171008 CU @ WA 0-3s2,WA,17,False,False,4,18,0,0,4,0,1,15,2
+171008 CU @ WA 0-3s3,WA,17,False,False,6,11,2,2,2,0,1,9,1
+221110 CU vs OR 2-3s1,OR,22,True,False,5,18,2,1,1,1,1,13,4
+221110 CU vs OR 2-3s2,OR,22,True,False,3,20,1,0,1,1,1,16,3
+221110 CU vs OR 2-3s3,OR,22,False,False,1,16,0,0,1,0,0,15,1
+221110 CU vs OR 2-3s4,OR,22,False,False,7,19,2,1,4,0,1,15,3
+221110 CU vs OR 2-3s5,OR,22,False,False,4,8,0,1,3,0,1,6,1
+221112 CU vs OR St 3-0s1,OR St,22,True,True,3,17,0,0,3,0,1,12,4
+221112 CU vs OR St 3-0s2,OR St,22,True,True,5,17,2,0,3,0,1,13,3
+221112 CU vs OR St 3-0s3,OR St,22,True,True,4,19,2,0,2,0,4,12,3
+221118 CU @ WA 3-0s1,WA,22,True,True,5,18,4,0,1,0,1,15,2
+221118 CU @ WA 3-0s2,WA,22,True,True,4,18,4,0,0,0,3,14,1
+221118 CU @ WA 3-0s3,WA,22,True,True,5,18,5,0,0,0,4,13,1
+221120 CU @ WA St 1-3s1,WA St,22,False,False,5,14,1,0,3,1,0,12,2
+221120 CU @ WA St 1-3s2,WA St,22,True,False,5,21,3,0,0,2,2,18,1
+221120 CU @ WA St 1-3s3,WA St,22,False,False,3,13,1,1,1,0,3,9,1
+221120 CU @ WA St 1-3s4,WA St,22,False,False,6,7,1,1,4,0,1,5,1
+221123 CU @ AZ 3-1s1,AZ,22,True,True,5,17,3,0,1,1,3,13,1
+221123 CU @ AZ 3-1s2,AZ,22,False,True,5,18,3,0,2,0,5,12,1
+221123 CU @ AZ 3-1s3,AZ,22,True,True,5,22,3,0,2,0,2,19,1
+221123 CU @ AZ 3-1s4,AZ,22,True,True,3,21,2,0,1,0,3,14,4
+221125 CU vs UT 3-1s1,UT,22,False,True,5,14,2,0,3,0,1,13,0
+221125 CU vs UT 3-1s2,UT,22,True,True,5,18,3,0,2,0,0,15,3
+221125 CU vs UT 3-1s3,UT,22,True,True,5,19,2,1,2,0,3,12,4
+221125 CU vs UT 3-1s4,UT,22,True,True,3,21,0,0,3,0,3,15,3
+221201 CU vs Rice 1-3s1,Rice,22,False,False,8,15,3,0,5,0,1,12,2
+221201 CU vs Rice 1-3s2,Rice,22,True,False,6,21,2,1,3,0,1,15,5
+221201 CU vs Rice 1-3s3,Rice,22,False,False,6,12,0,0,5,1,1,10,1
+221201 CU vs Rice 1-3s4,Rice,22,False,False,7,10,0,1,5,1,0,9,1
+230825 CU vs UNLV 1-3s1,UNLV,23,True,False,5,13,1,0,4,0,1,10,2
+230825 CU vs UNLV 1-3s2,UNLV,23,False,False,4,16,1,0,3,0,1,10,5
+230825 CU vs UNLV 1-3s3,UNLV,23,False,False,5,10,1,0,4,0,0,9,1
+230825 CU vs UNLV 1-3s4,UNLV,23,False,False,2,11,0,0,2,0,1,8,2
+230826 CU vs Campbell 3-0s1,Campbell,23,True,True,7,19,2,0,4,1,2,14,3
+230826 CU vs Campbell 3-0s2,Campbell,23,True,True,3,20,0,0,3,0,4,9,7
+230826 CU vs Campbell 3-0s3,Campbell,23,True,True,6,20,4,1,1,0,1,17,2
+230827 CU vs N TX 3-0s1,N TX,23,True,True,8,21,4,0,3,1,2,19,0
+230827 CU vs N TX 3-0s2,N TX,23,True,True,3,20,2,0,1,0,1,18,1
+230827 CU vs N TX 3-0s3,N TX,23,True,True,4,16,1,0,2,1,1,15,0
+171013 CU @ AZ St 3-0s1,AZ St,17,True,True,4,19,3,0,1,0,1,15,3
+171013 CU @ AZ St 3-0s2,AZ St,17,True,True,6,19,4,0,2,0,2,12,5
+171013 CU @ AZ St 3-0s3,AZ St,17,True,True,4,16,2,1,1,0,0,16,0
+230831 CU @ UNCO 3-0s1,UNCO,23,True,True,5,18,4,0,1,0,2,15,1
+230831 CU @ UNCO 3-0s2,UNCO,23,True,True,5,19,2,1,2,0,3,13,3
+230831 CU @ UNCO 3-0s3,UNCO,23,True,True,6,16,4,0,2,0,2,10,4
+230901 CU vs Xavier 3-0s1,Xavier,23,True,True,4,21,2,0,2,0,1,20,0
+230901 CU vs Xavier 3-0s2,Xavier,23,True,True,6,21,3,0,3,0,1,16,4
+230901 CU vs Xavier 3-0s3,Xavier,23,True,True,4,17,2,0,2,0,1,11,5
+230902 CU vs UNCC 3-0s1,UNCC,23,True,True,2,17,1,0,1,0,1,11,5
+230902 CU vs UNCC 3-0s2,UNCC,23,True,True,4,17,4,0,0,0,3,12,2
+230902 CU vs UNCC 3-0s3,UNCC,23,True,True,4,16,3,0,1,0,0,12,4
+230908 CU vs KS 1-3s1,KS,23,False,False,8,15,4,2,2,0,1,13,1
+230908 CU vs KS 1-3s2,KS,23,True,False,11,21,5,0,6,0,1,17,3
+230908 CU vs KS 1-3s3,KS,23,False,False,11,12,5,1,5,0,1,11,0
+230908 CU vs KS 1-3s4,KS,23,False,False,7,16,3,0,3,1,1,13,2
+230909 CU @ WIchita St 3-0s1,Wichita St,23,True,True,7,16,4,0,3,0,1,11,4
+230909 CU @ WIchita St 3-0s2,Wichita St,23,True,True,5,20,3,0,1,1,5,12,3
+230909 CU @ WIchita St 3-0s3,Wichita St,23,True,True,6,19,4,1,1,0,3,14,2
+230915 CU @ CO St 3-2s1,CO St,23,False,True,5,15,2,0,3,0,1,13,1
+230915 CU @ CO St 3-2s2,CO St,23,False,True,5,17,4,0,1,0,1,14,2
+230915 CU @ CO St 3-2s3,CO St,23,True,True,4,23,2,0,2,0,3,15,5
+230915 CU @ CO St 3-2s4,CO St,23,True,True,4,22,1,0,3,0,3,15,4
+230915 CU @ CO St 3-2s5,CO St,23,True,True,3,13,3,0,0,0,1,10,2
+171015 CU @ AZ 3-2s1,AZ,17,False,True,7,21,2,1,3,1,2,17,2
+171015 CU @ AZ 3-2s2,AZ,17,True,True,6,20,1,0,5,0,2,17,1
+171015 CU @ AZ 3-2s3,AZ,17,True,True,4,18,1,0,3,0,2,11,5
+171015 CU @ AZ 3-2s4,AZ,17,False,True,4,16,1,0,3,0,0,13,3
+171015 CU @ AZ 3-2s5,AZ,17,True,True,1,13,0,0,1,0,0,13,0
+170826 CU @ OK 3-1s1,OK,17,True,True,3,19,2,0,1,0,3,13,3
+170826 CU @ OK 3-1s2,OK,17,False,True,3,20,1,0,2,0,3,16,1
+170826 CU @ OK 3-1s3,OK,17,True,True,4,21,2,0,2,0,0,14,7
+170826 CU @ OK 3-1s4,OK,17,True,True,3,20,0,0,3,0,3,14,3
+171020 CU vs USC 3-0s1,USC,17,True,True,6,19,3,1,2,0,1,15,3
+171020 CU vs USC 3-0s2,USC,17,True,True,6,21,1,0,5,0,0,16,5
+171020 CU vs USC 3-0s3,USC,17,True,True,8,17,2,1,5,0,1,12,4
+171021 CU vs UCLA 2-3s1,UCLA,17,False,False,4,15,1,0,3,0,0,10,5
+171021 CU vs UCLA 2-3s2,UCLA,17,True,False,1,22,0,0,1,0,2,18,2
+171021 CU vs UCLA 2-3s3,UCLA,17,True,False,5,17,2,0,2,1,2,14,1
+171021 CU vs UCLA 2-3s4,UCLA,17,False,False,6,19,2,0,4,0,1,13,5
+171021 CU vs UCLA 2-3s5,UCLA,17,False,False,3,12,0,0,3,0,0,11,1
+171027 CU @ OR 3-2s1,OR,17,True,True,2,21,1,0,1,0,0,17,4
+171027 CU @ OR 3-2s2,OR,17,True,True,0,19,0,0,0,0,1,16,2
+171027 CU @ OR 3-2s3,OR,17,False,True,4,11,2,0,2,0,1,9,1
+171027 CU @ OR 3-2s4,OR,17,False,True,4,6,1,0,3,0,0,5,1
+171027 CU @ OR 3-2s5,OR,17,True,True,3,12,0,1,2,0,1,10,1
+171028 CU @ OR St 3-1s1,OR St,17,True,True,2,16,0,0,2,0,2,12,2
+171028 CU @ OR St 3-1s2,OR St,17,False,True,4,18,1,0,3,0,1,14,3
+171028 CU @ OR St 3-1s3,OR St,17,True,True,6,20,1,1,4,0,2,16,2
+171028 CU @ OR St 3-1s4,OR St,17,True,True,3,20,1,1,1,0,3,16,1
+171101 CU vs WA St 3-0s1,WA St,17,True,True,4,21,1,0,3,0,1,15,5
+171101 CU vs WA St 3-0s2,WA St,17,True,True,4,10,1,0,3,0,0,9,1
+171101 CU vs WA St 3-0s3,WA St,17,True,True,5,18,1,1,3,0,0,16,2
+171103 CU vs WA 3-0s1,WA,17,True,True,6,14,3,0,3,0,0,13,1
+171103 CU vs WA 3-0s2,WA,17,True,True,1,19,0,0,1,0,1,16,2
+171103 CU vs WA 3-0s3,WA,17,True,True,6,18,5,0,1,0,2,15,1
+171109 CU @ UCLA 0-3s1,UCLA,17,False,False,6,15,3,0,3,0,0,12,3
+171109 CU @ UCLA 0-3s2,UCLA,17,False,False,5,12,2,1,2,0,0,9,3
+171109 CU @ UCLA 0-3s3,UCLA,17,False,False,6,16,4,0,2,0,0,13,3
+171111 CU @ USC 2-3s1,USC,17,True,False,6,16,3,0,3,0,0,13,3
+171111 CU @ USC 2-3s2,USC,17,False,False,8,11,4,0,4,0,0,10,1
+171111 CU @ USC 2-3s3,USC,17,True,False,9,21,4,0,5,0,1,17,3
+171111 CU @ USC 2-3s4,USC,17,False,False,8,6,4,1,3,0,1,4,1
+171111 CU @ USC 2-3s5,USC,17,False,False,2,9,2,0,0,0,0,6,3
+171117 CU vs AZ 3-0s1,AZ,17,True,True,6,18,2,2,2,0,2,13,3
+171117 CU vs AZ 3-0s2,AZ,17,True,True,5,16,3,0,2,0,1,12,3
+171117 CU vs AZ 3-0s3,AZ,17,True,True,4,18,1,0,3,0,3,14,1
+171118 CU vs AZ St 3-2s1,AZ St,17,False,True,5,23,1,1,3,0,0,22,1
+171118 CU vs AZ St 3-2s2,AZ St,17,True,True,2,22,1,0,1,0,2,14,6
+171118 CU vs AZ St 3-2s3,AZ St,17,False,True,4,19,1,0,3,0,1,17,1
+171118 CU vs AZ St 3-2s4,AZ St,17,True,True,5,20,2,0,3,0,1,15,4
+171118 CU vs AZ St 3-2s5,AZ St,17,True,True,3,13,1,0,2,0,1,8,4
+170826 CU vs SHU 3-0s1,Seton Hall,17,True,True,3,18,1,0,2,0,1,15,2
+170826 CU vs SHU 3-0s2,Seton Hall,17,True,True,5,22,3,0,2,0,0,16,6
+170826 CU vs SHU 3-0s3,Seton Hall,17,True,True,4,21,1,0,2,1,2,17,2
+171122 CU @ Cal 3-0s1,Cal,17,True,True,7,21,4,0,3,0,0,20,1
+171122 CU @ Cal 3-0s2,Cal,17,True,True,6,18,1,0,5,0,2,12,4
+171122 CU @ Cal 3-0s3,Cal,17,True,True,5,23,1,0,4,0,1,20,2
+171124 CU vs UT 1-3s1,UT,17,True,False,5,20,3,1,1,0,3,13,4
+171124 CU vs UT 1-3s2,UT,17,False,False,3,12,0,0,3,0,0,10,2
+171124 CU vs UT 1-3s3,UT,17,False,False,6,19,1,0,5,0,2,15,2
+171124 CU vs UT 1-3s4,UT,17,False,False,6,19,1,0,5,0,0,17,2
+171201 CU vs JMU 3-0s1,JMU,17,True,True,9,16,2,1,6,0,1,13,2
+171201 CU vs JMU 3-0s2,JMU,17,True,True,5,22,3,1,1,0,1,20,1
+171201 CU vs JMU 3-0s3,JMU,17,True,True,4,17,3,0,1,0,1,12,4
+171202 CU @ Baylor 3-0s1,Baylor,17,True,True,2,20,1,0,1,0,2,15,3
+171202 CU @ Baylor 3-0s2,Baylor,17,True,True,7,21,3,0,4,0,2,15,4
+171202 CU @ Baylor 3-0s3,Baylor,17,True,True,3,19,1,0,2,0,0,12,7
+171208 CU vs NE 0-3s1,NE,17,False,False,1,14,0,0,1,0,0,12,2
+171208 CU vs NE 0-3s2,NE,17,False,False,8,7,2,0,5,1,1,6,0
+171208 CU vs NE 0-3s3,NE,17,False,False,3,12,2,1,0,0,1,8,3
+180824 CU vs ORU 3-1s1,ORU,18,True,True,4,17,1,1,2,0,2,10,5
+180824 CU vs ORU 3-1s2,ORU,18,False,True,9,9,1,2,5,1,0,8,1
+180824 CU vs ORU 3-1s3,ORU,18,True,True,6,17,2,1,3,0,2,11,4
+180824 CU vs ORU 3-1s4,ORU,18,True,True,5,14,2,0,3,0,0,14,0
+180824 CU vs UNF 3-0s1,UNF,18,True,True,8,21,3,0,3,2,1,17,3
+180824 CU vs UNF 3-0s2,UNF,18,True,True,7,19,0,2,5,0,0,15,4
+180824 CU vs UNF 3-0s3,UNF,18,True,True,2,15,0,1,1,0,1,13,1
+180825 CU @ WY 2-3s1,WY,18,False,False,6,16,1,1,3,1,1,13,2
+180825 CU @ WY 2-3s2,WY,18,False,False,6,15,1,1,4,0,1,13,1
+180825 CU @ WY 2-3s3,WY,18,True,False,3,19,0,0,2,1,2,14,3
+180825 CU @ WY 2-3s4,WY,18,True,False,4,19,1,0,3,0,0,13,6
+180825 CU @ WY 2-3s5,WY,18,False,False,4,6,2,0,2,0,0,5,1
+180831 CU vs IL 0-3s1,IL,18,False,False,5,11,2,1,2,0,0,11,0
+180831 CU vs IL 0-3s2,IL,18,False,False,7,17,1,1,5,0,0,12,5
+180831 CU vs IL 0-3s3,IL,18,False,False,5,15,1,0,4,0,1,12,2
+180901 CU vs IA 3-1s1,IA,18,True,True,3,16,1,0,2,0,2,11,3
+180901 CU vs IA 3-1s2,IA,18,True,True,1,17,1,0,0,0,1,14,2
+180901 CU vs IA 3-1s3,IA,18,False,True,9,15,3,0,6,0,0,14,1
+180901 CU vs IA 3-1s4,IA,18,True,True,1,22,0,0,1,0,3,15,4
+170902 CU vs Rice 3-0s1,Rice,17,True,True,2,16,1,0,1,0,0,15,1
+170902 CU vs Rice 3-0s2,Rice,17,True,True,4,17,2,0,2,0,3,12,2
+170902 CU vs Rice 3-0s3,Rice,17,True,True,6,18,1,0,5,0,1,16,1
+180907 CU vs GA 1-3s1,GA,18,False,False,8,15,3,1,4,0,0,14,1
+180907 CU vs GA 1-3s2,GA,18,True,False,5,20,0,1,2,2,1,18,1
+180907 CU vs GA 1-3s3,GA,18,False,False,7,12,2,0,4,1,0,12,0
+180907 CU vs GA 1-3s4,GA,18,False,False,4,14,3,0,1,0,0,14,0
+180908 CU vs NC 3-0s1,NC,18,True,True,3,19,1,0,2,0,2,13,4
+180908 CU vs NC 3-0s2,NC,18,True,True,4,20,1,1,2,0,2,16,2
+180908 CU vs NC 3-0s3,NC,18,True,True,8,20,1,1,6,0,2,17,1
+180908 CU vs OK 3-0s1,OK,18,True,True,3,19,1,0,2,0,0,15,4
+180908 CU vs OK 3-0s2,OK,18,True,True,7,22,2,0,5,0,4,15,3
+180908 CU vs OK 3-0s3,OK,18,True,True,3,19,2,0,1,0,0,14,5
+180914 CU vs Portland St 3-0s1,Portland St,18,True,True,4,20,3,0,1,0,4,16,0
+180914 CU vs Portland St 3-0s2,Portland St,18,True,True,4,17,1,1,1,1,3,11,3
+180914 CU vs Portland St 3-0s3,Portland St,18,True,True,7,17,3,1,2,1,1,15,1
+180915 CU vs CO St 3-1s1,CO St,18,True,True,5,21,2,1,2,0,1,14,6
+180915 CU vs CO St 3-1s2,CO St,18,True,True,6,18,1,0,5,0,1,14,3
+180915 CU vs CO St 3-1s3,CO St,18,False,True,6,11,2,0,3,1,0,8,3
+180915 CU vs CO St 3-1s4,CO St,18,True,True,3,19,0,0,3,0,2,12,5
+180915 CU vs IN St 3-0s1,IN St,18,True,True,5,19,1,0,3,1,0,17,2
+180915 CU vs IN St 3-0s2,IN St,18,True,True,9,22,1,0,8,0,0,19,3
+180915 CU vs IN St 3-0s3,IN St,18,True,True,8,18,0,1,6,1,0,17,1
+180919 CU vs UT 3-2s1,UT,18,False,True,8,14,1,1,6,0,0,12,2
+180919 CU vs UT 3-2s2,UT,18,True,True,5,18,1,0,4,0,0,13,5
+180919 CU vs UT 3-2s3,UT,18,False,True,3,9,2,0,1,0,0,7,2
+180919 CU vs UT 3-2s4,UT,18,True,True,5,18,0,0,5,0,1,13,4
+180919 CU vs UT 3-2s5,UT,18,True,True,1,10,0,0,1,0,1,9,0
+180923 CU vs USC 2-3s1,USC,18,False,False,11,16,2,1,8,0,0,15,1
+180923 CU vs USC 2-3s2,USC,18,True,False,5,17,1,0,2,2,3,14,0
+180923 CU vs USC 2-3s3,USC,18,False,False,7,15,1,0,6,0,1,11,3
+180923 CU vs USC 2-3s4,USC,18,True,False,3,19,1,0,1,1,1,13,5
+180923 CU vs USC 2-3s5,USC,18,False,False,3,8,0,0,3,0,0,8,0
+180928 CU @ WA 1-3s1,WA,18,False,False,7,15,6,0,1,0,1,9,5
+180928 CU @ WA 1-3s2,WA,18,True,False,3,21,1,0,2,0,0,14,7
+180928 CU @ WA 1-3s3,WA,18,False,False,2,12,0,1,1,0,2,8,2
+180928 CU @ WA 1-3s4,WA,18,False,False,3,7,1,0,2,0,0,6,1
+180930 CU @ WA St 1-3s1,WA St,18,True,False,4,15,2,0,2,0,0,12,3
+180930 CU @ WA St 1-3s2,WA St,18,False,False,7,29,5,0,2,0,3,22,4
+180930 CU @ WA St 1-3s3,WA St,18,False,False,6,14,1,0,5,0,0,11,3
+180930 CU @ WA St 1-3s4,WA St,18,False,False,2,20,2,0,0,0,1,17,2
+170902 CU vs WF 3-0s1,Wake,17,True,True,6,16,3,1,1,1,0,12,4
+170902 CU vs WF 3-0s2,Wake,17,True,True,5,17,2,1,2,0,0,16,1
+170902 CU vs WF 3-0s3,Wake,17,True,True,3,20,2,0,1,0,0,17,3
+181005 CU vs Cal 3-2s1,Cal,18,True,True,2,19,0,0,2,0,1,15,3
+181005 CU vs Cal 3-2s2,Cal,18,False,True,8,22,1,0,7,0,3,16,3
+181005 CU vs Cal 3-2s3,Cal,18,False,True,9,13,1,0,7,1,0,12,1
+181005 CU vs Cal 3-2s4,Cal,18,True,True,4,15,3,0,1,0,0,12,3
+181005 CU vs Cal 3-2s5,Cal,18,True,True,1,11,0,0,1,0,0,10,1
+181007 CU vs Stan 0-3s1,Stan,18,False,False,2,22,1,0,1,0,0,21,1
+181007 CU vs Stan 0-3s2,Stan,18,False,False,3,19,1,0,2,0,2,17,0
+181007 CU vs Stan 0-3s3,Stan,18,False,False,3,18,1,1,1,0,0,14,4
+181012 CU vs OR 1-3s1,OR,18,False,False,9,16,1,0,6,2,0,15,1
+181012 CU vs OR 1-3s2,OR,18,False,False,6,27,4,0,2,0,2,24,1
+181012 CU vs OR 1-3s3,OR,18,True,False,3,19,1,1,1,0,1,15,3
+181012 CU vs OR 1-3s4,OR,18,False,False,7,13,1,0,6,0,0,10,3
+181014 CU vs OR St 3-0s1,OR St,18,True,True,5,18,1,0,4,0,3,12,3
+181014 CU vs OR St 3-0s2,OR St,18,True,True,2,14,0,0,2,0,1,10,3
+181014 CU vs OR St 3-0s3,OR St,18,True,True,7,22,3,0,4,0,1,19,2
+181019 CU @ AZ 0-3s1,AZ,18,False,False,8,14,2,0,5,1,1,11,2
+181019 CU @ AZ 0-3s2,AZ,18,False,False,6,17,3,0,3,0,0,13,4
+181019 CU @ AZ 0-3s3,AZ,18,False,False,10,18,3,2,5,0,1,15,2
+181021 CU @ AZ St 3-1s1,AZ St,18,False,True,5,14,3,0,2,0,1,10,3
+181021 CU @ AZ St 3-1s2,AZ St,18,True,True,5,16,3,0,2,0,2,13,1
+181021 CU @ AZ St 3-1s3,AZ St,18,True,True,6,17,0,0,6,0,1,10,6
+181021 CU @ AZ St 3-1s4,AZ St,18,True,True,5,20,5,0,0,0,0,17,3
+181026 CU vs WA St 1-3s1,WA St,18,False,False,5,18,2,0,3,0,2,13,3
+181026 CU vs WA St 1-3s2,WA St,18,False,False,4,14,2,0,2,0,0,10,4
+181026 CU vs WA St 1-3s3,WA St,18,True,False,4,21,0,1,3,0,1,16,4
+181026 CU vs WA St 1-3s4,WA St,18,False,False,9,17,1,1,6,1,1,14,2
+181028 CU vs WA 3-1s1,WA,18,True,True,3,17,0,0,3,0,1,12,4
+181028 CU vs WA 3-1s2,WA,18,True,True,4,21,1,0,3,0,2,15,4
+181028 CU vs WA 3-1s3,WA,18,False,True,5,14,3,0,2,0,0,12,2
+181028 CU vs WA 3-1s4,WA,18,True,True,6,20,1,0,5,0,0,14,6
+181031 CU @ Cal 3-0s1,Cal,18,True,True,5,19,4,0,1,0,0,17,2
+181031 CU @ Cal 3-0s2,Cal,18,True,True,6,19,2,0,4,0,2,10,7
+181031 CU @ Cal 3-0s3,Cal,18,True,True,6,20,1,2,3,0,2,16,2
+181102 CU @ Stan 2-3s1,Stan,18,False,False,3,13,0,0,3,0,1,10,2
+181102 CU @ Stan 2-3s2,Stan,18,False,False,4,15,3,0,1,0,1,9,5
+181102 CU @ Stan 2-3s3,Stan,18,True,False,6,21,3,2,1,0,0,19,2
+181102 CU @ Stan 2-3s4,Stan,18,True,False,5,23,2,0,3,0,1,18,4
+181102 CU @ Stan 2-3s5,Stan,18,False,False,2,5,1,0,1,0,0,4,1
+170903 CU vs ACU 3-0s1,Abilene Christian,17,True,True,3,19,0,2,1,0,0,17,2
+170903 CU vs ACU 3-0s2,Abilene Christian,17,True,True,3,20,0,1,2,0,1,18,1
+170903 CU vs ACU 3-0s3,Abilene Christian,17,True,True,3,18,1,1,1,0,1,14,3
+181109 CU vs AZ St 3-0s1,AZ St,18,True,True,7,19,0,0,7,0,1,15,3
+181109 CU vs AZ St 3-0s2,AZ St,18,True,True,7,16,2,0,5,0,1,13,2
+181109 CU vs AZ St 3-0s3,AZ St,18,True,True,3,20,1,0,2,0,0,15,5
+181111 CU vs AZ 2-3s1,AZ,18,True,False,4,17,1,2,1,0,1,15,1
+181111 CU vs AZ 2-3s2,AZ,18,True,False,2,18,2,0,0,0,1,15,2
+181111 CU vs AZ 2-3s3,AZ,18,False,False,9,12,3,1,5,0,1,9,2
+181111 CU vs AZ 2-3s4,AZ,18,False,False,9,15,4,2,3,0,0,12,3
+181111 CU vs AZ 2-3s5,AZ,18,False,False,4,7,1,1,1,1,0,7,0
+181116 CU @ OR 3-2s1,OR,18,False,True,6,10,1,1,3,1,1,9,0
+181116 CU @ OR 3-2s2,OR,18,True,True,2,19,0,0,2,0,1,17,1
+181116 CU @ OR 3-2s3,OR,18,True,True,2,16,0,0,2,0,1,12,3
+181116 CU @ OR 3-2s4,OR,18,False,True,5,12,1,0,4,0,1,9,2
+181116 CU @ OR 3-2s5,OR,18,True,True,3,13,1,0,2,0,0,11,2
+181118 CU @ OR St 3-2s1,OR St,18,False,True,5,19,3,0,2,0,1,13,5
+181118 CU @ OR St 3-2s2,OR St,18,True,True,7,25,2,0,4,1,0,19,6
+181118 CU @ OR St 3-2s3,OR St,18,False,True,4,12,1,0,3,0,0,11,1
+181118 CU @ OR St 3-2s4,OR St,18,True,True,4,23,1,0,3,0,1,13,9
+181118 CU @ OR St 3-2s5,OR St,18,True,True,2,11,1,0,0,1,0,9,2
+181121 CU @ UCLA 3-0s1,UCLA,18,True,True,6,17,3,0,3,0,1,15,1
+181121 CU @ UCLA 3-0s2,UCLA,18,True,True,2,20,0,1,1,0,1,17,2
+181121 CU @ UCLA 3-0s3,UCLA,18,True,True,5,22,1,1,3,0,1,18,3
+181123 CU @ UT 1-3s1,UT,18,False,False,8,22,2,0,6,0,1,16,5
+181123 CU @ UT 1-3s2,UT,18,True,False,6,18,1,2,3,0,1,15,2
+181123 CU @ UT 1-3s3,UT,18,False,False,4,24,0,0,4,0,1,18,5
+181123 CU @ UT 1-3s4,UT,18,False,False,5,11,0,0,4,1,0,10,1
+181130 CU vs SC 2-3s1,SC,18,False,False,7,26,3,0,4,0,2,22,2
+181130 CU vs SC 2-3s2,SC,18,True,False,4,16,2,1,1,0,1,13,2
+181130 CU vs SC 2-3s3,SC,18,False,False,4,10,0,0,4,0,1,8,1
+181130 CU vs SC 2-3s4,SC,18,True,False,3,20,1,1,1,0,3,14,3
+181130 CU vs SC 2-3s5,SC,18,False,False,3,10,0,0,3,0,1,9,0
+190830 CU vs WY 3-0s1,WY,19,True,True,3,18,0,0,2,1,3,12,3
+190830 CU vs WY 3-0s2,WY,19,True,True,7,18,1,0,6,0,0,16,2
+190830 CU vs WY 3-0s3,WY,19,True,True,4,18,1,0,3,0,1,14,3
+190831 CU vs LIU 3-0s1,LIU,19,True,True,10,16,3,0,6,1,0,13,3
+190831 CU vs LIU 3-0s2,LIU,19,True,True,3,17,2,0,1,0,2,11,4
+190831 CU vs LIU 3-0s3,LIU,19,True,True,10,14,2,0,8,0,0,12,2
+190831 CU vs UCSB 3-1s1,UCSB,19,True,True,3,16,1,0,2,0,3,9,4
+190831 CU vs UCSB 3-1s2,UCSB,19,True,True,3,20,1,0,2,0,1,15,4
+190831 CU vs UCSB 3-1s3,UCSB,19,False,True,6,16,1,1,4,0,1,13,2
+190831 CU vs UCSB 3-1s4,UCSB,19,True,True,4,14,1,0,3,0,0,13,1
+170908 CU vs PA St 0-3s1,PA St,17,False,False,7,16,4,2,1,0,0,13,3
+170908 CU vs PA St 0-3s2,PA St,17,False,False,2,14,1,0,1,0,1,12,1
+170908 CU vs PA St 0-3s3,PA St,17,False,False,2,16,1,0,1,0,0,11,5
+190906 CU @ IA 3-0s1,IA,19,True,True,7,19,2,0,5,0,1,13,5
+190906 CU @ IA 3-0s2,IA,19,True,True,7,16,5,0,2,0,0,14,2
+190906 CU @ IA 3-0s3,IA,19,True,True,4,17,3,0,1,0,0,13,4
+190907 CU vs IL 3-0s1,IL,19,True,True,3,20,1,0,1,1,3,14,3
+190907 CU vs IL 3-0s2,IL,19,True,True,4,21,3,0,1,0,2,15,4
+190907 CU vs IL 3-0s3,IL,19,True,True,3,19,2,1,0,0,3,14,2
+190912 CU @ CO St 0-3s1,CO St,19,False,False,10,7,3,1,6,0,0,6,1
+190912 CU @ CO St 0-3s2,CO St,19,False,False,7,3,1,1,5,0,0,2,1
+190912 CU @ CO St 0-3s3,CO St,19,False,False,6,15,4,0,2,0,2,11,2
+190913 CU vs CO St 2-3s1,CO St,19,True,False,2,16,2,0,0,0,2,8,6
+190913 CU vs CO St 2-3s2,CO St,19,False,False,4,19,0,0,4,0,0,16,3
+190913 CU vs CO St 2-3s3,CO St,19,False,False,6,13,3,2,1,0,1,11,1
+190913 CU vs CO St 2-3s4,CO St,19,True,False,4,15,2,0,2,0,1,10,4
+190913 CU vs CO St 2-3s5,CO St,19,False,False,4,2,0,1,3,0,0,2,0
+190920 CU vs Oakland 3-1s1,Oakland,19,True,True,4,15,1,0,3,0,0,14,1
+190920 CU vs Oakland 3-1s2,Oakland,19,True,True,5,20,2,1,2,0,1,16,3
+190920 CU vs Oakland 3-1s3,Oakland,19,False,True,5,17,4,0,1,0,0,15,2
+190920 CU vs Oakland 3-1s4,Oakland,19,True,True,4,18,2,0,2,0,0,14,4
+190921 CU vs Campbell 3-0s1,Campbell,19,True,True,1,14,1,0,0,0,1,12,1
+190921 CU vs Campbell 3-0s2,Campbell,19,True,True,7,19,4,0,3,0,1,15,3
+190921 CU vs Campbell 3-0s3,Campbell,19,True,True,6,19,1,1,4,0,2,14,3
+190921 CU vs UMBC 3-0s1,UMBC,19,True,True,6,19,1,0,5,0,0,19,0
+190921 CU vs UMBC 3-0s2,UMBC,19,True,True,3,20,3,0,0,0,5,13,2
+190921 CU vs UMBC 3-0s3,UMBC,19,True,True,7,19,1,0,6,0,1,12,6
+190925 CU @ UT 0-3s1,UT,19,False,False,5,9,0,0,5,0,0,9,0
+190925 CU @ UT 0-3s2,UT,19,False,False,6,17,2,0,4,0,2,13,2
+190925 CU @ UT 0-3s3,UT,19,False,False,5,17,1,0,4,0,0,12,5
+190927 CU @ OR St 1-3s1,OR St,19,True,False,4,20,3,0,1,0,1,16,3
+190927 CU @ OR St 1-3s2,OR St,19,False,False,9,10,3,2,4,0,0,9,1
+190927 CU @ OR St 1-3s3,OR St,19,False,False,7,16,3,1,2,1,1,11,4
+190927 CU @ OR St 1-3s4,OR St,19,False,False,7,18,1,1,5,0,2,11,5
+191004 CU @ AZ St 1-3s1,AZ St,19,False,False,13,15,7,1,5,0,1,11,3
+191004 CU @ AZ St 1-3s2,AZ St,19,False,False,7,16,2,2,3,0,2,12,2
+191004 CU @ AZ St 1-3s3,AZ St,19,True,False,3,18,2,0,0,1,1,11,6
+191004 CU @ AZ St 1-3s4,AZ St,19,False,False,7,14,4,0,3,0,1,9,4
+170909 CU @ IL 3-2s1,IL,17,True,True,6,18,3,0,3,0,3,15,0
+170909 CU @ IL 3-2s2,IL,17,False,True,5,18,2,0,3,0,1,15,2
+170909 CU @ IL 3-2s3,IL,17,True,True,6,23,1,1,4,0,2,18,3
+170909 CU @ IL 3-2s4,IL,17,False,True,4,12,2,1,1,0,1,9,2
+170909 CU @ IL 3-2s5,IL,17,True,True,2,16,2,0,0,0,1,14,1
+191006 CU @ AZ 0-3s1,AZ,19,False,False,6,6,1,0,5,0,0,4,2
+191006 CU @ AZ 0-3s2,AZ,19,False,False,4,19,2,0,2,0,1,17,1
+191006 CU @ AZ 0-3s3,AZ,19,False,False,3,15,1,0,2,0,0,12,3
+191011 CU vs USC 1-3s1,USC,19,False,False,2,18,0,0,2,0,1,14,3
+191011 CU vs USC 1-3s2,USC,19,False,False,7,15,4,0,3,0,1,11,3
+191011 CU vs USC 1-3s3,USC,19,True,False,4,21,2,0,2,0,4,15,2
+191011 CU vs USC 1-3s4,USC,19,False,False,4,18,4,0,0,0,1,13,4
+191013 CU vs UCLA 0-3s1,UCLA,19,False,False,9,8,2,0,6,1,0,8,0
+191013 CU vs UCLA 0-3s2,UCLA,19,False,False,3,16,0,0,2,1,1,14,1
+191013 CU vs UCLA 0-3s3,UCLA,19,False,False,6,14,2,0,4,0,0,12,2
+191018 CU @ Stan 0-3s1,Stan,19,False,False,5,12,4,0,1,0,0,11,1
+191018 CU @ Stan 0-3s2,Stan,19,False,False,4,8,0,0,4,0,0,7,1
+191018 CU @ Stan 0-3s3,Stan,19,False,False,6,8,4,0,2,0,2,5,1
+191020 CU @ Cal 2-3s1,Cal,19,False,False,10,18,2,0,8,0,0,16,2
+191020 CU @ Cal 2-3s2,Cal,19,False,False,0,20,0,0,0,0,1,18,1
+191020 CU @ Cal 2-3s3,Cal,19,True,False,4,22,2,0,1,1,2,19,1
+191020 CU @ Cal 2-3s4,Cal,19,True,False,1,20,1,0,0,0,1,16,3
+191020 CU @ Cal 2-3s5,Cal,19,False,False,2,12,0,0,2,0,0,12,0
+191024 CU vs WA St 0-3s1,WA St,19,False,False,5,12,2,0,3,0,1,10,1
+191024 CU vs WA St 0-3s2,WA St,19,False,False,5,17,2,0,2,1,3,8,6
+191024 CU vs WA St 0-3s3,WA St,19,False,False,4,10,0,1,3,0,0,8,2
+191027 CU vs WA 1-3s1,WA,19,False,False,4,10,1,0,3,0,0,9,1
+191027 CU vs WA 1-3s2,WA,19,False,False,8,18,1,0,7,0,0,17,1
+191027 CU vs WA 1-3s3,WA,19,True,False,3,21,2,0,1,0,1,16,4
+191027 CU vs WA 1-3s4,WA,19,False,False,4,11,2,0,2,0,0,9,2
+191101 CU vs AZ 3-2s1,AZ,19,True,True,7,21,4,0,3,0,2,15,4
+191101 CU vs AZ 3-2s2,AZ,19,True,True,1,20,0,0,1,0,2,17,1
+191101 CU vs AZ 3-2s3,AZ,19,False,True,10,19,2,1,7,0,4,12,3
+191101 CU vs AZ 3-2s4,AZ,19,False,True,4,17,1,0,3,0,0,14,3
+191101 CU vs AZ 3-2s5,AZ,19,True,True,2,11,1,0,1,0,0,10,1
+191103 CU vs AZ St 3-0s1,AZ St,19,True,True,1,15,0,0,1,0,3,9,3
+191103 CU vs AZ St 3-0s2,AZ St,19,True,True,3,14,0,0,3,0,0,13,1
+191103 CU vs AZ St 3-0s3,AZ St,19,True,True,8,18,4,0,4,0,1,17,0
+191107 CU @ UCLA 3-0s1,UCLA,19,True,True,3,19,2,0,1,0,1,15,3
+191107 CU @ UCLA 3-0s2,UCLA,19,True,True,10,18,6,2,2,0,2,15,1
+191107 CU @ UCLA 3-0s3,UCLA,19,True,True,7,19,1,1,4,1,1,15,3
+170915 CU vs XU 3-1s1,Xavier,17,True,True,6,21,0,0,5,1,3,16,2
+170915 CU vs XU 3-1s2,Xavier,17,False,True,6,15,3,1,2,0,2,13,0
+170915 CU vs XU 3-1s3,Xavier,17,True,True,8,23,4,0,4,0,0,19,4
+170915 CU vs XU 3-1s4,Xavier,17,True,True,2,21,0,0,2,0,2,16,3
+191109 CU @ USC 1-3s1,USC,19,False,False,7,10,4,1,2,0,0,10,0
+191109 CU @ USC 1-3s2,USC,19,True,False,3,20,1,0,2,0,2,15,3
+191109 CU @ USC 1-3s3,USC,19,False,False,5,21,1,0,4,0,1,20,0
+191109 CU @ USC 1-3s4,USC,19,False,False,6,11,2,0,4,0,0,9,2
+191115 CU @ WA 0-3s1,WA,19,False,False,2,15,0,0,2,0,1,11,3
+191115 CU @ WA 0-3s2,WA,19,False,False,4,13,2,1,1,0,1,9,3
+191115 CU @ WA 0-3s3,WA,19,False,False,4,12,1,1,2,0,1,11,0
+191117 CU @ WA St 2-3s1,WA St,19,False,False,4,20,0,0,3,1,1,17,2
+191117 CU @ WA St 2-3s2,WA St,19,True,False,7,21,3,0,4,0,1,15,5
+191117 CU @ WA St 2-3s3,WA St,19,True,False,4,14,3,0,1,0,1,12,1
+191117 CU @ WA St 2-3s4,WA St,19,False,False,4,9,0,0,4,0,0,8,1
+191117 CU @ WA St 2-3s5,WA St,19,False,False,0,5,0,0,0,0,0,5,0
+191122 CU vs Cal 3-1s1,Cal,19,True,True,5,23,2,0,3,0,0,20,3
+191122 CU vs Cal 3-1s2,Cal,19,True,True,7,18,1,0,6,0,1,14,3
+191122 CU vs Cal 3-1s3,Cal,19,False,True,6,20,1,0,5,0,2,13,5
+191122 CU vs Cal 3-1s4,Cal,19,True,True,1,18,0,0,1,0,1,12,5
+191124 CU vs Stan 0-3s1,Stan,19,False,False,3,11,2,0,1,0,0,8,3
+191124 CU vs Stan 0-3s2,Stan,19,False,False,5,2,1,1,3,0,0,2,0
+191124 CU vs Stan 0-3s3,Stan,19,False,False,3,12,1,0,2,0,2,6,4
+191127 CU vs OR 3-0s1,OR,19,True,True,6,24,2,1,3,0,4,19,1
+191127 CU vs OR 3-0s2,OR,19,True,True,7,19,3,0,4,0,0,18,1
+191127 CU vs OR 3-0s3,OR,19,True,True,5,18,4,0,1,0,2,16,0
+191130 CU vs UT 0-3s1,UT,19,False,False,5,12,1,0,4,0,1,9,2
+191130 CU vs UT 0-3s2,UT,19,False,False,7,11,0,0,7,0,2,8,1
+191130 CU vs UT 0-3s3,UT,19,False,False,3,14,1,0,2,0,2,10,2
+210117 CU vs Den 3-1s1,Den,21S,True,True,10,15,3,1,6,0,1,12,2
+210117 CU vs Den 3-1s2,Den,21S,True,True,9,18,2,0,7,0,2,13,3
+210117 CU vs Den 3-1s3,Den,21S,False,True,5,13,1,1,3,0,0,11,2
+210117 CU vs Den 3-1s4,Den,21S,True,True,3,20,0,0,3,0,3,17,0
+210122 CU vs OR St 3-0s1,OR St,21S,True,True,6,16,1,1,3,1,3,11,2
+210122 CU vs OR St 3-0s2,OR St,21S,True,True,6,16,2,0,4,0,1,13,2
+210122 CU vs OR St 3-0s3,OR St,21S,True,True,7,16,3,1,3,0,3,8,5
+210124 CU vs OR St 3-1s1,OR St,21S,True,True,0,15,0,0,0,0,2,11,2
+210124 CU vs OR St 3-1s2,OR St,21S,True,True,6,17,2,1,3,0,1,13,3
+210124 CU vs OR St 3-1s3,OR St,21S,False,True,4,15,1,0,3,0,1,10,4
+210124 CU vs OR St 3-1s4,OR St,21S,True,True,2,16,1,0,1,0,1,12,3
